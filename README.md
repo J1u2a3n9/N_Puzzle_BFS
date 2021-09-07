@@ -1,7 +1,7 @@
 #                                                           Second practice IS
-## Mauricio Balderrama
-## Mercedes La Fuente
-## Juan Luis Canedo
+### Mauricio Balderrama
+### Mercedes La Fuente
+### Juan Luis Canedo
 ### Experiment I
 ### Description of the problem: 
       Expand states using (n^2-1)-puzzle1 where n=2, Report the number of states generated 
@@ -105,6 +105,8 @@
       1 Until you reach the goal
   
   
-### NOTA IMPORTANTE
-      El codigo inicialmente fue programado en español, pero al tratar de modificarlo para su traduccion en ingles ocasiono problemas con choques de variables de python lo cual 
-      provoco que el programa no se ejecute correctamente por el factor tiempo no se lo pudo arreglar pero se envia el codigo en español el cual se ejecuta correctamente sin      fallas
+### NOTAS IMPORTANTE
+      -El codigo inicialmente fue programado en español, pero al tratar de modificarlo para su traduccion en ingles ocasiono problemas con choques de variables de python lo cual 
+       provoco que el programa no se ejecute correctamente por el factor tiempo no se lo pudo arreglar pero se envia el codigo en español el cual se ejecuta correctamente sin      fallas
+      -Es importante poder verificar si se tiene instalada algunas herramientas de python en caso de no tenerlas instalar desde la línea de comandos con pip install "nombre"
+      -Hay que tener suma precaución al inicializar estados finales y objetivos desde el menú principal dado que son variables globales y estas pueden provocar a veces errores por sobre escritura 
