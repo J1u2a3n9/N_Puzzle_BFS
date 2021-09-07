@@ -107,4 +107,4 @@
   
 ### NOTA IMPORTANTE
       El codigo inicialmente fue programado en español, pero al tratar de modificarlo para su traduccion en ingles ocasiono problemas con choques de variables de python lo cual 
-      provoco que el programa no se ejecute correctamente por el factor tiempo no se lo pudo arreglar pero se envia el codigo en español el cual se ejecuta correctamente sin             fallas
+      provoco que el programa no se ejecute correctamente por el factor tiempo no se lo pudo arreglar pero se envia el codigo en español el cual se ejecuta correctamente sin      fallas
