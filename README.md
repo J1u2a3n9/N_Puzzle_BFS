@@ -1,4 +1,7 @@
 # Second practice IS
+## Mauricio Balderrama
+## Mercedes La Fuente
+## Juan Luis Canedo
 ### Experiment I
 ### Description of the problem: 
       Expand states using (n^2-1)-puzzle1 where n=2, Report the number of states generated 
