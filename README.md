@@ -110,3 +110,7 @@
        provoco que el programa no se ejecute correctamente por el factor tiempo no se lo pudo arreglar pero se envia el codigo en español el cual se ejecuta correctamente sin      fallas
       -Es importante poder verificar si se tiene instalada algunas herramientas de python en caso de no tenerlas instalar desde la línea de comandos con pip install "nombre"
       -Hay que tener suma precaución al inicializar estados finales y objetivos desde el menú principal dado que son variables globales y estas pueden provocar a veces errores por sobre escritura 
+
+
+Steps | Spaces | Time | Initial State
+:---: | :---: | :---: | :---:
